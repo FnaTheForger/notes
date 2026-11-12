@@ -57,7 +57,7 @@ int main(void) {
     // (1U << 6) = 0100 0000
     //             --------- &
     //           = 0100 0000 
-    // In decimal 0100 0000 means 64, if statment in C doesn't always needs 1 to indicate true
+    // In decimal 0100 0000 means 64, if statement in C doesn't always needs 1 to indicate true
     // 0        = False
     // non-zero = True
     printf("4. Check bit 6: ");
